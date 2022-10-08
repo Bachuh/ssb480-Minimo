@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    header{
+    width: 90%;
+    margin:70px auto 110px;
+    overflow: hiden;
+    }
+    
+    .logo{
+    width: 20%;
+    float: left;
+    }
+    
+    .logo img{
+    
+    }
+    
+    .menu{
+    width: 70%;
+    float: right;
+    overflow: hidden;
+    }
+    
+    .menu ul{
+    list-style:none ;
+    float: right;
+    }
+    
+    .menu ul li{
+    float: left;
+    margin-left: 100px;
+    }
+    
+    .menu ul li a{
+    color: #626262;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    
+    }
+    
+    .banner{
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+    }
+    
+    .banner img{
+    width: 100%;
+    
+    }
+    
+    .photodairy{
+    width: 80%;
+    margin:70px auto;
+    }
+    
+    .photodairy h5{
+        color: #b4ad9e;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 15px;
+        }
+        
+    .photodairy h1{
+        color: #626262;
+        font-size: 40px;
+        margin-bottom: 20px;
+        }
+    .photodairy p{
+            color: #626262;
+            font-size: 15px;
+            margin-bottom: 20px;
+            }
+            
+         .photodairy a{
+            color:#b4ad9e ;
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 700px;
+            } 
+        
+        
+   
+   
+    
+    
+        
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
